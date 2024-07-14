@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>yichen_images/liu.png</file>
+        <file>yichen_images/qq.png</file>
+        <file>yichen_images/Linux.jpg</file>
+        <file>yichen_images/ChatRoom.jpg</file>
+    </qresource>
+</RCC>
